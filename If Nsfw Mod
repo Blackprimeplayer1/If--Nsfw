@@ -4,7 +4,7 @@ module.exports = {
     name: "If NSFW",
 
     // Place the author of the mod here. This is an array so you can add other authors by writing ["Great Plains Modding", "New User"]
-    author: ["Blackprimeplayer1#0001"],
+    author: ["Vannzilla#6786"],
 
     // Place the version of the mod here.
     version: "0.1.0",
